@@ -4,6 +4,10 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
 
+body {
+  background-color: #ffd700; /* Hex color code for gold */
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
