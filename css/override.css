@@ -43,3 +43,6 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+body {
+  background-color: #ffd700; /* Hex color code for gold */
+}
