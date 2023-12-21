@@ -1,7 +1,3 @@
-body {
-  background-color: #ffd700; /* Hex color code for gold */
-}
-
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
@@ -46,7 +42,4 @@ hr {
   transform: translateY(-50%);
   font-size: 2.5em;
   opacity: 0.3;
-}
-body {
-  background-color: #ffd700; /* Hex color code for gold */
 }
