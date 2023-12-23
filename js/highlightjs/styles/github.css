@@ -101,3 +101,11 @@ body {
 .hljs-strong {
   font-weight: bold;
 }
+
+/* Add glossiness to the background */
+body {
+  background: linear-gradient(to bottom, #ffffff, #e0e0e0);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Your other styles go here */
