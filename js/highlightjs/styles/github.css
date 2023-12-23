@@ -4,10 +4,6 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
 
-body {
-  background-color: #ffcc00; /* Hex color code for gold */
-}
-
 .hljs {
   display: block;
   overflow-x: auto;
@@ -102,10 +98,11 @@ body {
   font-weight: bold;
 }
 
-/* Add glossiness to the background */
+/* Add gold glossiness to the background */
 body {
-  background: linear-gradient(to bottom, #ffffff, #e0e0e0);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 0;
+  background: linear-gradient(to bottom, #ffd700, #ffb400);
+  box-shadow: 0 4px 6px rgba(255, 187, 0, 0.3);
 }
 
 /* Your other styles go here */
